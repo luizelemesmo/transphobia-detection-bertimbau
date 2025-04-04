@@ -13,11 +13,11 @@ Implementação de um modelo BERTimbau fine-tuned para classificação de tweets
 ```
 transfobia-detection-bertimbau/
 ├── code/
-│   └── ProjetoBCC406.ipynb          # Notebook com implementação completa
+│   └── Projeto BCC406 - Luiz H. Carvalho & Mariana Macedo.ipynb            # Notebook com implementação completa
 ├── data/
-│   └── dados_rotulados.csv          # Dataset de 144 tweets rotulados manualmente
+│   └── dados_rotulados.csv                                                 # Dataset de 144 tweets rotulados manualmente
 ├── docs/
-│   └── Artigo_Redes_Neurais.pdf     # Artigo científico detalhando a pesquisa
+│   └── Artigo - Luiz H. Carvalho & Mariana Macedo.pdf                      # Artigo científico detalhando a pesquisa
 ├── .gitignore
 ├── LICENSE
 ├── README.md
@@ -26,7 +26,7 @@ transfobia-detection-bertimbau/
 
 ## 🔧 Requisitos e Instalação
 ```bash
-git clone https://github.com/seu-usuario/transfobia-detection-bertimbau.git
+git clone https://github.com/luizelemesmo/transfobia-detection-bertimbau.git
 cd transfobia-detection-bertimbau
 pip install -r requirements.txt
 ```
