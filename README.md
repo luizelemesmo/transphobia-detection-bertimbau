@@ -1,4 +1,4 @@
-# Detecção de Discurso Transfóbico em Redes Sociais com BERTimbau
+# Detecção de Discurso Transfóbico na Rede Social X com BERTimbau
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
