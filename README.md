@@ -85,4 +85,3 @@ print(predict(texto))  # Retorna 'Transfobia' ou 'Não transfobia'
 
 ## Licença
 Este projeto é licenciado sob a [MIT License](LICENSE) - consulte o arquivo para detalhes.
-```
