@@ -4,7 +4,7 @@
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-orange.svg)](https://huggingface.co/neuralmind/bert-base-portuguese-cased)
 
-Repositório oficial do projeto de pesquisa que utiliza redes neurais BERT para identificação de discurso de ódio transfóbico na plataforma X (Twitter).
+Repositório oficial do projeto que utiliza redes neurais BERT para identificação de discurso de ódio transfóbico na plataforma X (Twitter). Este trabalho foi desenvolvido como parte do conteúdo programático da disciplina Redes Neurais e Aprendizagem em Profundidade, ministrada pelos professores Pedro Silva e Eduardo Luz, do Departamento de Computação da UFOP.
 
 ## 📄 Resumo
 Implementação de um modelo BERTimbau fine-tuned para classificação de tweets em **transfóbicos** (1) ou **não transfóbicos** (0). O modelo alcançou **93.1% de acurácia** em um conjunto de validação balanceado, demonstrando eficácia na detecção de padrões linguísticos complexos associados à transfobia.
