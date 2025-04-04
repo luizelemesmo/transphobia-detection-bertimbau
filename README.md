@@ -81,7 +81,7 @@ print(predict(texto))  # Retorna 'Transfobia' ou 'Não transfobia'
 
 ## 📚 Referências
 - [BERTimbau Base](https://huggingface.co/neuralmind/bert-base-portuguese-cased)
-- [Artigo Completo](docs/Artigo_Luiz_H_Carvalho_Mariana_Macedo.pdf)
+- [Artigo Completo](https://github.com/luizelemesmo/transphobia-detection-bertimbau/blob/fa5d3456e7a4434954fc054ba8b5a710173c6bba/docs/Artigo%20-%20Luiz%20H.%20Carvalho%20%26%20Mariana%20Macedo.pdf)
 
 ## Licença
 Este projeto é licenciado sob a [MIT License](LICENSE) - consulte o arquivo para detalhes.
