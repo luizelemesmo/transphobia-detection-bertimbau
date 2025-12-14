@@ -1,6 +1,6 @@
 # Detecção de Discurso Transfóbico na Rede Social X com BERTimbau
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-orange.svg)](https://huggingface.co/neuralmind/bert-base-portuguese-cased)
 
